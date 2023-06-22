@@ -1,0 +1,23 @@
+.cards-bt {
+    
+
+    width: '18rem';
+    margin: '0 auto';
+    
+}
+
+.btn-design{
+    position: absolute !important;
+    right: calc(47px) !important;
+    font-size: 25px;
+}
+
+.dateStyle{
+    font-size: small;
+}
+
+.searchBoxStyle{
+    width: 100%;
+    display: flex;
+    justify-content: end;
+}
